@@ -1,0 +1,9 @@
+.header{
+    font-size: large;
+    color: crimson;
+    background-color: darkgray;
+    margin: top 3cm;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    border: 2px solid black;
+}
