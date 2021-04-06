@@ -22,7 +22,7 @@ class Testcomp  extends React.Component{
         }
         render(){
             return <div>
-                <h1 className="mb-4">Registration Form</h1>
+                <h1 className="mb-4">  Form Registration</h1>
             <p className="formgroup">
             <input ref="uname" className="form-control" type="text" placeholder="Enter your name" ></input>
             </p>
