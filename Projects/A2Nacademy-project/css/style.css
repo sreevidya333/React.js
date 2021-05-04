@@ -1,0 +1,431 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin:0px;
+	padding:0px;
+}
+h1,h2,h3,h4,h5,h6,ul,{
+	margin:0px;
+	padding:0px;
+}
+
+#slider {
+    width:696px;
+    margin-left:320px;
+}
+#slider img{
+    border:none;
+}
+#slider ul, #slider li{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+#slider li { 
+    width:696px;
+    overflow:hidden; 
+}
+
+
+
+.img-fluid{
+	max-width: 100%;
+}
+.header-part{
+	float:left;
+	width:100%;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.container{
+	width:1200px;
+	margin:0px auto;
+}
+.logo-part{
+	width:25%;
+	float:left;
+}
+.contact-info{
+	width:75%;
+	float:left;
+}
+.logo-part img{
+	width:200px;
+}
+.contact-info ul li{
+	list-style:none;
+	display:inline-block;
+	margin-right:30px;
+}
+.contact-info ul{
+	float:right;
+}
+.contact-info ul li a{
+	color:#000000;
+	text-decoration:none;
+	font-size:18px;
+}
+.contact-info img{
+	width:20px;
+}
+.banner-part{
+	width:100%;
+	float:left;
+	padding-top:20px;
+	padding-bottom:50px;
+	background-image:url(../images/banner-imag.jpg);
+}
+.about-course{
+	width:70%;
+	float:left;
+}
+.quick-enquiry{
+	width:30%;
+	float:left;
+	margin-top: 38px;
+	border-radius:5px;
+}
+.about-course h1{
+	font-size:40px;
+	margin-bottom:20px;
+}
+.about-course p{
+	font-size:20px;
+	margin-bottom:20px;
+}
+.about-course h2{
+	margin-bottom:20px;
+}
+.about-course ul{
+	margin-left:40px;
+	margin-bottom:20px;
+}
+.about-course ul li{
+	font-size:20px;
+	margin-bottom:10px;
+}
+.form{
+	background-color:#000000;
+	padding:10px;
+	border-radius: 9px;
+}
+.form-control{
+	width:100%;
+	height:50px;
+	box-sizing:border-box;
+	margin-bottom:20px;
+	font-size:16px;
+}
+.btn-style{
+	background-color:#fc031c;
+	padding:16px 30px 16px 30px;
+	color:#ffffff;
+	border:1px solid #fc031c;
+	border-radius:5px;
+	font-size:20px;
+}
+
+.form h3{
+	color:white;
+	font-size:24px;
+	margin-bottom:24px;
+}
+
+.course-key-points{
+	width:100%;
+	float:right;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.course-details{
+	width:30%;
+	border:2px solid #4830300a;
+	float:left;
+	border-radius: 2px;
+	box-shadow: 0 0 15px 1px rgb(0 0 0 / 15%);
+	margin: 0px 12px;
+	min-height: 100px;
+}
+.icon{
+	float:left;
+	width:20%;
+	margin-top:8px; 
+	margin-left:40px;  
+}
+.detail-text{
+	float:auto;
+	width:80%;
+}
+.mr-0{
+	margin-right: 0px;
+
+}
+.icon img{
+	width: 50px;
+}
+.detail-text p{
+	text-align: center;
+}
+.webdesign-online-Classes{
+	width:100%;
+	float:left;
+	padding-top: 30px;
+	padding-bottom:50px;
+}
+.webdesign-o{
+	width: 100%;
+	float:left;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.webdesign-o h2{
+	text-align: center;
+}
+.webdesign-o p{
+	text-align: center;
+	margin-bottom: 20px;
+	line-height:26px; 
+}
+.benifits{
+	width: 100%;
+	float:left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.course-benifits{
+	width:20.9%;
+	float: left;
+	box-shadow: 1px 2px 6px rgb(0 0 0 / 25%);
+	padding: 25px;
+	box-sizing: border-box;
+	margin:2% ;
+	min-height: 287px;
+	border-radius: 3%;
+	background-color: #f5f5f5;
+	border-top:4px solid orange;	
+}
+
+.green-color{
+	border-top:4px solid green;
+}
+
+.border-red{
+	border-top:4px solid red;
+}
+.border-skyblue{
+	border-top: 4px solid #6FD1F9;
+}
+
+.border-blue{
+	border-top: 4px solid #2378F3 ;
+}
+.border-color{
+	border-top: 4px solid #FE711D;
+}
+.border-sky{
+	border-top: 3px solid #1cb4c2;
+}
+
+.border-end{
+	border-color: 4px solid #FEA202;
+}
+
+
+.image-center{
+	text-align: center;
+}
+
+
+
+.course-benifits img{
+	width:68Px;
+}
+.course-benifits h3{
+	text-align: center;
+}
+.course-benifits p{
+	text-align: center;
+}
+.border-color2{
+	border-top:4px solid green;
+}
+	
+.course-para{
+	text-align: center;
+	line-height: 26px;
+}	
+.for-your-skills{
+	width:100%;
+	float:left;
+	padding-top:50px;
+	padding-bottom:40px;
+	background-image:url(../images/call-to-action-bg.jpg);
+	background-position: right;
+
+}
+.for-your-skills p{
+	color: #ffffff;
+}
+
+
+.for-your-skills h2{
+	color:#ffffff;
+	margin-bottom: 20px;
+	font-size: 35px;
+}
+.for-your-skills h3{
+	color:#ffffff;
+}
+
+.btn-style-1{
+	
+	padding:16px 30px 16px 30px;
+	color:black;
+	border:1px solid #fc031c;
+	border-radius:5px;
+	font-size:20px;
+	border-color: #ffffff;
+}
+
+.for-your-skills h2 span{
+	font-size: 14px;
+}
+
+.benifits-web{
+	width: 100%;
+	float:left;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.ul-li{
+	width: 60%;
+	float:left;
+	line-height: 2;
+}
+.certificate{
+	width:40%;
+	float:left;
+}
+.Careers-Opportunities{
+	width:100%;
+	float:left;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	background-color: #f5f5f5;
+
+}
+.text h1{
+	text-align: center;
+}
+.text p{
+	text-align: center;
+}
+.picture-1{
+	width:100%;
+	float:left;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	
+
+}   
+.pictures{
+	width:15.6%;
+	box-shadow:1px 2px 6px rgb(0 0 0 / 25%);
+	background-color: white;
+	float: left;
+	margin-left: 1%
+}
+
+ .students-say{
+ 	width:100%;
+ 	float:left;
+ }
+
+.part-1 h1{
+	margin-top: 50px;
+	margin-bottom: 40px;
+     text-align: center;
+ }    
+
+.part-1 p{
+    margin-top: 20px;
+	margin-bottom: 30px;
+     text-align: center;
+     line-height:26px;    
+}
+.part-2{
+
+	width:100%;
+	float:left;
+}
+
+
+.small-boxes{
+	width:19.7%;
+	float:left;
+    border:1px solid #ddd;
+	box-shadow: 1px 2px 6px rgb(154 154 154 / 25%);
+	min-height: 218px;
+	padding: 20px;
+	margin-right: 18px;
+	margin-bottom: 40px;
+	border-bottom-right-radius:20px;
+	border-top-left-radius: 20px;
+}
+
+.right{
+	text-align: right;
+}
+.directions{
+   width: 100%;
+   float: left;
+   text-align: center;
+   margin-top: 25px;
+   background: #f5f5f5;
+}
+.bottom{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.address h1{
+	margin-top: 40px;
+}
+
+.end-title{
+	width:96%;
+	float:left;
+	background-color: black;
+    padding:2%;
+}
+
+.end-title p1{
+	float:left;
+	color:white;
+}
+.end-title p2{
+	  float:right;
+	  color:white;
+}
+
+#slider {width: 696px} /* It can be a good idea to set a width of the slider, mostly so Old-IE can figure out how to render */
+
+/*Numeric Navigation */
+ol.numericControls {margin:1em 0;padding:0;height:28px;margin-left:500px;}
+ol.numericControls li{margin:0 10px 0 0; padding:0;float:left;list-style:none;height:28px;line-height:28px;}
+ol.numericControls li a{float:left;height:28px;line-height:28px;border:1px solid #ccc;background:#DAF3F8;color:#555;padding:0 10px;text-decoration:none;}
+ol.numericControls li.current a{background:#5DC9E1;color:#fff;}
+ol.numericControls li a:focus, .prevBtn a:focus, .nextBtn a:focus{outline:none;}
+
+.graphic, .prevBtn, .nextBtn{margin:0;padding:0;display:block;overflow:hidden;text-indent:-8000px;}
+
+.prevBtn, .nextBtn {display:block;width:30px;height:77px;position:absolute;left:-30px;top:71px;z-index:1000;background:url(../images/btn_prev.gif) no-repeat 0 0;cursor:pointer;}	
+.nextBtn{left:696px;}														
+.nextBtn {background:url(../images/btn_next.gif) no-repeat 0 0;}
+.nextBtn{
+	margin-top: 85px;
+	margin-left:320px;
+}
+.prevBtn{
+	margin-left:320px; 
+	margin-top:87px;
+}
