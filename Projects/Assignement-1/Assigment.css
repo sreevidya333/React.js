@@ -1,0 +1,72 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button1{
+  background-color:#767679;
+  width:110px;
+  font-size: 30px;
+  color:white;
+}
+.button2{
+  background-color:#767679 ;
+  width:203px;
+  height:50px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.button3{
+  background-color: #767679 ;
+  width:113px ;
+  height:34px;
+  margin-left:11.6%;
+}
+.img{
+  background-color: #ff00ff;
+  font-size: 30px;
+  color:white;
+  margin:0px;
+  padding:0px;
+  width:100%;
+  
+
+}
+td ul li{
+  list-style: none;
+  display: inline;
+  
+}
+.filterlogo{   
+  background-color: #ededed;
+  font-size: 25px;
+  font-weight:700;
+  text-align: center;
+}
+.filterlogo ul li img{
+  float: left;
+}
+.text{
+  font-size: 16px;
+}
+.Lorem{
+  background-color: #d2d655;
+  text-align: center;
+  font-size: 24px;
+  height: 261px;
+  font-weight: 600;
+}
+.end{
+  background-color: black;
+  font-size: 11px;
+  color:white;
+}
+.end2 {
+  margin-top: 30px;
+  font-size: 11px;
+
+}
+.empty{
+  background-color: white;
+  color:white;
+  height:50px;
+}
+

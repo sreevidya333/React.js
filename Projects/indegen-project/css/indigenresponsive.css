@@ -1,0 +1,308 @@
+@media only screen and (max-width:1199px){
+.upcoming-events-in{
+    margin-left: 0px;
+
+}
+}
+/*ipad pro portrait*/
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .container{
+        width: 960px;
+    }
+    .digital-savvy h2{
+        line-height: 60px;
+    }
+    .customer{
+        margin-left: 52px;
+    }
+    .testimony-details{
+        width: 20%;
+        margin-left: 100px;
+    }
+    .upcoming-events h2{
+        margin-top: 0px;
+        margin-left: 30%;
+    }
+    .event-1 img{
+        width:97%;
+        margin-left:0px;
+    }
+
+    
+    .medical-transformation{
+        width: 45%;
+    }
+    .blog-images {
+        width: 100%;
+    }
+    .blog-images img{
+    width: 100%;
+    }
+    .date{
+        width: 14%;
+         margin-left: 0px;
+    }
+    .press-release{
+        width: 82%;
+        margin-left: 6px;
+    }
+    .press-release h3{
+        margin-bottom: 60px;
+        font-size: 32px;
+    }
+    .data-1 h4{
+        margin-top:-4px;
+    }    
+    
+}
+/*ipad portrait*/
+@media only screen and (min-width:768px) and (max-width:991px){
+    .container{
+        width: 720px;
+    }
+.customer {
+    width: 38.9%;
+    margin-right: 55px;
+    margin-left: 27px;
+}
+.medical-transformation{
+    width: 46.9%;
+}
+.para1 h4{
+    margin-left: 25px;
+}
+.para1 p{
+margin-left: 25px;
+}
+.img-icon1 img{
+    margin-top: 30px;
+}
+.testimony-details{
+width: 30%;
+margin-left: 24px;
+}
+.blog-images {
+    width: 100%;
+}
+.blog-images img{
+  width: 100%;
+}
+.data-1{
+    width:100px;
+    margin-top:27px;
+    margin-left:10px;
+}
+.date{
+    width: 18%;
+}
+.press-release{
+    width: 78%;
+}
+}
+
+/*phone landscape*/
+@media only screen and (min-width:576px) and (max-width:767px){
+    .container{
+        width:693px;
+    }
+    .customer{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .digital-savvy h2{
+        line-height: 64px;
+    }
+    .upcoming-events h2{
+        margin-top: 0px;
+        margin-left: 25%;
+    }
+    .event-1 img{
+        margin-left:0px;
+    }
+    .data-1 h4{
+        margin-left: 99px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .data-1 ul{
+          margin-left: 128px;  
+    }
+    #btn{
+        margin-left: 104px;
+    }
+    .medical-transformation{
+        width: 100%;
+        margin-left:0px;
+    }
+    .para1 p{
+        margin-right: 40px;
+    }
+    .testimony-details{
+        width: 30%;
+        margin-left: 10px;
+        
+    }
+    .blog-images {
+        width: 100%;
+    }
+    .blog-images img{
+    width: 100%;
+    }
+    .date{
+        width: 14%;
+    }
+    .data-1 ul li{
+        margin-bottom: -3px;
+        margin-top:-5px;
+    }
+    .press-release{
+        width: 81.6%;
+    }
+    .testimony {
+        width: 100%;
+        float: left;
+        justify-content: center;
+        display: flex;
+    }
+    .testimony-details p{
+        padding:0px 15px;
+    }
+    .newsletters h1 {
+        font-size: 36px;
+    }
+    .newsletters{
+        width: 100%;
+        float: left;
+    }
+    .data-1{
+        width:65%;
+    }
+    .copyrights p span
+    {
+        padding-left:5px;
+        padding-right:5px;
+    }
+}
+
+/*phone portrait*/
+@media only screen and (max-width:575px) {
+    .testimony-info h1{
+        font-size:30px;
+    }
+    .container {
+        width: 100%;
+         padding-left: 14px;
+        padding-right: 10px; 
+        box-sizing: border-box;
+    }
+    section.digital-bg-img {
+        background-size: cover;
+        background-position: center;
+    }
+    .digital-savvy h2{
+        line-height: 45px;
+    }
+    .header-part{
+        padding: 18px 0px;
+    }
+    .customer {
+        width: 100%;
+        float: left;
+        margin-left: 0px;
+        margin-right:0px;
+    }
+    .img-icon img{
+        margin-left:0px;
+        padding-left:10px;
+    }
+    .medical-transformation {
+        width: 100%;
+        float: left;
+        margin-left: 0px;
+    }
+        .icons-info {
+        float: left;
+        width: 100%;
+    }
+    .blog-images {
+        width: 100%;
+    }
+    section.inspirational-testimony{
+        background-repeat:repeat;
+    }
+    .testimony-info{
+        margin-top:25px;
+    }
+        .testimony-info h1{
+            margin-bottom:0px;
+        }
+    .testimony-details {
+        width: 100%;
+        margin-left: 0px;
+        margin-bottom: 25px;
+    }
+    .press-release {
+        width: 68.8%;
+    }
+    .upcoming-events{
+        width:100%;
+    }
+    .upcoming-events h2{
+        margin-left:71px;
+        font-size: 26px;
+    }
+    .event-1 img{
+        margin-left: 51px   ;
+    }
+    .data-1{
+        width:100%;
+	float:left;
+	margin-left:10px ;
+	margin-top:39px ;
+	line-height: 48px;
+
+    }
+    .data-1 ul li{
+        line-height: 28px;
+    }
+    .data-1 h4{
+        margin-bottom: 0px;
+        line-height: 30px;
+    }
+    .blog-images img {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .date {
+        width: 25%;
+    }
+    .newsletters h1{
+        font-size:42px;
+    }
+    .copyrights p span {
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .press-release {
+        width: 67.3%;
+    }
+    .forms{
+        width:100%;
+        height:46px;
+        padding:0px;
+    }
+    #btn{
+        margin-left: 105px;
+    }
+
+    .logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .social-icons {
+        width: 100%;
+    }
+}

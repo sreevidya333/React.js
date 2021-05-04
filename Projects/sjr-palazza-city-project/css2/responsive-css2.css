@@ -1,0 +1,208 @@
+/*>-992px*/
+@media only screen and (min-width:992px) and (max-width:1199px){
+
+.container{
+	width:960px;
+}
+.contact-info{
+     font-size: 11px;
+     margin-bottom: 20px;
+}
+.logo-part img{
+	margin-top: 40px;
+
+}
+.form{
+	width:32%;
+}
+.text{
+   font-size:12px;
+}
+.img{
+	width:24%;
+}
+.Gallary{
+	padding: 6%;
+}
+}
+
+/*ipad potrite*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+.container{
+	width:697px;
+}
+
+.logo-part{
+	margin-top: 36px;
+}
+.contact-info{
+	font-size: 18px;
+}
+.form{
+	width:45%;
+	margin-left: 32%;
+}
+.welcome-city h2{
+	margin-left: 56px;
+}
+.palazza2{
+	margin-left: -82px;
+}
+.text{
+	font-size: 7px;
+}
+.img{
+	width:21%;
+	margin-left:70px; 
+}
+.Gallary{
+	padding: 6%;
+}
+
+}
+/*phones potrite*/
+@media only screen and (min-width:250px) and (max-width:767px){
+
+.container{
+	width:540px;
+}
+.logo-part{
+	margin-top: 8px;
+}
+.contact-info{
+	font-size: 10px;
+	margin-left: 240px;
+	margin-top: -34px;
+}
+.form{
+	width:57%;
+	margin-left: 30%;
+}
+.palazza1{
+	width:25%;
+}
+.palazza2 img{
+	width:100%;
+	margin-left: 106px;
+}
+.text{
+	margin-left: 179px;
+}
+.img{
+	width:33%;
+} 
+.btn-style2{
+	width:18%;
+}
+
+.Gallary img {
+	width:28%;
+}
+.contact-us ul li a {
+	margin-left: 28%;
+}
+}
+
+@media only screen and (max-width: 479px){
+
+.container{
+	width:100%;
+	padding-left:15px ;
+    padding-right:15px;
+    box-sizing: border-box;
+}
+.logo-part{
+	width:98%;
+}
+.contact-info{
+    font-size: 11px;
+    margin-left: 256px;
+    margin-top: -40px;
+     width:34%;
+}    
+.banner-part img{
+	margin-left: 24px;
+}
+.form{
+	width:90%;
+	margin-left: 10%;
+}
+.welcome-city{
+	margin-left: 25px;
+}
+.Amenities {
+	margin-left: 24px;
+}
+.Master-plan{
+	margin-left: 24px;
+}
+.palazza1{
+	width:100%;
+}
+.text{
+	margin-left: 0px;
+	margin-right: -171px;
+}
+.img{
+	width:66%;
+}
+.btn-style2{
+	width: 98px;
+}
+.Gallary{
+	width:100%;
+	margin-left: -17px;
+}
+.Gallary img{
+	width:100%;
+	margin-left:-4px;
+}
+.quotes-section{
+	margin-left: 24px;
+}
+.contact-us ul li a{
+	margin-left: 77px;
+}
+.contact-us{
+	margin-left: 24px;
+}
+.palazza-address{
+	margin-left: 30px;
+}
+.end-title{
+	margin-left: 10px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,335 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin:0px;
+	padding:0px;
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+
+
+.header-part{
+	float:left;
+	width:100%;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.container{
+	width:1200px;
+	margin:0px auto;
+}
+.logo-part{
+	width:33%;
+	float:left;
+}
+.logo-part img{
+     float:left;
+     width:51%; 
+     margin-left: 10%;
+}
+.contact-info{
+	float:left;
+	width:67%;
+	font-size: 11px;
+
+}
+.contact-info ul li{
+    list-style: none;  
+	display:inline-block;
+	margin-right:30px;
+}
+.contact-info ul li a{
+	text-decoration-line: none;
+}
+
+.banner-part img{
+	float:left;
+	width:100%;
+}
+
+.form{
+	background-color:white;
+	padding:19px;
+	width:26%;
+	float:left;
+	box-shadow: 0 0 15px 1px rgb(0 0 0 / 15%);
+	color: black;
+	box-sizing: border-box;
+	border-radius: 6px;
+	border:1px solid rgb(219,210,210);
+	margin-left: 38%;
+	padding-top: 15px;
+}
+.quick-enquiry{
+          float: left;
+          width:100%;   
+         margin-top: 15px;
+         
+}
+
+.form a{
+	color:black;
+	text-decoration-line: none;
+	font-size: 15px;
+
+}
+
+
+
+.form-control{
+       width:88%
+	height:30px;
+	padding: 7px;
+	box-sizing:border-box;
+	border:1px solid rgb(219,210,210);
+	margin-bottom:10px;
+	font-size:19px;
+    border-radius:7px;
+    margin-bottom: 10px;
+    font-weight: 10px;
+}
+.btn-style{
+	background-color:#bd9234;
+	padding:8px 10px 8px 10px;
+	color:#ffffff;
+	border:1px solid #bd9234;
+	border-radius:5px;
+	font-size:16px;
+	width: 95%;
+}
+.form h3{
+	color: black;
+	text-align: center;
+}
+
+.form ul li{
+	float: left;
+	list-style: none;
+}	
+.form img{
+	width:10px;
+	text-align: center;
+	font-size: 15px;
+
+}
+.welcome-city{
+	float:left;
+    padding-top: 10px;
+	padding-bottom: 10px;
+	 text-align: center;
+	 text-decoration:dashed;
+	 background-color: #f5f5f5;
+	 width:100%;
+	 overflow: none;
+}
+.palazza1{
+      width:49.0%;
+      float: left;
+      padding-top: 20px;
+      padding-bottom: 20px;
+}
+
+.palazza1 img{
+      width:75px;
+
+
+
+}
+.welcome-city h2{
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+.palazza2{
+	width:50%;
+	float:left;
+    padding-bottom:0px;
+    padding-top:30px;
+}  
+.img-fluid{
+
+	max-width: 100%;
+}
+.palazza2 img{
+	float: left;
+    margin-right: 30px;
+    width:45%;
+    margin-left: 190px;
+    margin-right: 110px;
+}
+
+.text p ul li{
+	float:left;
+	width:3%;
+
+}
+.Amenities{
+	float:left;
+	width:100%;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	margin-right: 30px;
+	background-color: #f6f2e3;
+
+}
+
+.Amenities h2{
+	 text-align: center;
+	 text-decoration: underline;
+  text-underline-position: under;
+
+}
+
+.Amenities p{
+	font-size: 20px; 
+}
+
+.img{
+	float:left;
+	width:26%;
+	margin-top:36px; 
+    margin-bottom:10px;
+    margin-left: 84px;
+
+}
+.text{
+   font-size: 18px;
+
+}
+
+.detail-text{
+
+font-size: 10px;
+
+}
+
+.btn-style2{
+	background-color: #f6f2e3;;
+	padding:8px 10px 8px 10px;
+	color:black;
+	border:1px solid black;
+	border-radius:5px;
+	font-size:16px;
+	width: 15%;
+	margin-left: 45%;
+    margin-top: 40px;
+    margin-bottom: 50px; 
+
+}
+
+.Master-plan{
+	width: 100%;
+	float:left;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	height: 80%;
+	background-color: #fafafa;
+}
+
+.Master-plan h2{
+	text-align: center;
+	 text-decoration: underline;
+  text-underline-position: under;
+}
+
+.Gallary{
+      float:left;
+      width:80%;
+      padding: 10%;
+}
+.Gallary img{
+       float:left;
+       width:30%;
+       margin:10px;
+}
+
+.Gallary h2{
+       text-align: center;
+	 text-decoration: underline;
+  text-underline-position: under;
+           font-size:30px; 
+}
+
+.quotes-section{
+  width:100%;
+  float:left;
+  background-color: #FAF9F9;
+}
+.quotes-section h2{
+      text-align: center;
+      text-decoration:underline;
+
+}
+.Testimonials{
+  text-align: center;
+  font-size:17px; 
+}
+
+.testimonials-2 h2  {
+        text-align:center;
+         font-size: 16px;
+}
+.testimonials-2 p{
+	 text-align:center;
+}
+.adress{
+      width:100%;
+      float:left;
+      margin-bottom: 40px;  
+}
+.contact-us{
+	width:100%;
+	float:left;
+	font-size: 18px;
+	margin-top: 20px;
+}
+
+
+.contact-us h2{
+      text-align: center;
+  text-decoration: underline;
+   text-underline-position: under;
+  font-size:25px; 
+  margin-top: 10px;
+
+}
+.contact-us p {
+     text-align: center;
+
+}
+.contact-us a img{
+  
+ width:10px;
+
+}
+.contact-us  ul li a{
+	color:black;
+	text-decoration:none;
+	margin-left:39%; 
+}
+.contact-us ul li{
+	list-style:none;
+}
+.address2 iframe{
+	width:100%;
+	float:left;
+}
+.end-title{
+   width:100%;
+   float:left;
+  background-color: black;
+  font-size: 15px;
+  color:white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
