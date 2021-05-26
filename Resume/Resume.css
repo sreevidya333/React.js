@@ -1,0 +1,51 @@
+*{
+    background-color: rgb(70, 63, 63);
+    color:blanchedalmond;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width:1000px;
+    margin:0px auto;
+}
+h2{
+    text-align: center;
+}
+hr{
+    width:80%;
+}
+.Details{
+    Float:left;
+    width:100%
+}
+.Left-D{
+    width:50%;
+    float:left;
+}
+.Right-D{
+    width:35%;
+    float:right;
+    margin-right:-6.2%;
+}
+.Obj{
+    margin-top: 40px;
+}
+ .P-Details{
+    float:right;
+} 
+.footer{
+    float:left;
+    width:90%;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid white;
+    background-color: rgb(107, 230, 230);
+    margin:3%;
+}
+.btn{
+    float:right;
+    color:black;
+    background-color: rgb(221, 199, 187);
+    position: fixed;
+    bottom: 0;
+
+}
